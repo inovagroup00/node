@@ -1,0 +1,21 @@
+{
+  "name": "ola-mundo-remotion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio",
+    "render": "remotion render OlaMundo out/ola-mundo.mp4",
+    "build": "remotion render OlaMundo out/ola-mundo.mp4"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.291",
+    "@remotion/google-fonts": "4.0.291",
+    "react": "^19",
+    "react-dom": "^19",
+    "remotion": "4.0.291"
+  },
+  "devDependencies": {
+    "@types/react": "^19",
+    "typescript": "^5"
+  }
+}
