@@ -2,6 +2,7 @@
   "name": "ola-mundo-remotion",
   "version": "1.0.0",
   "private": true,
+  "packageManager": "pnpm@10.29.3",
   "scripts": {
     "studio": "remotion studio",
     "render": "remotion render OlaMundo out/ola-mundo.mp4",
